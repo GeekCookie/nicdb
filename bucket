@@ -1,55 +1,55 @@
 {
-Status: "OK",
-buckets: [
-{
-endpoint: "https://oss-us-east-1.aliyuncs.com",
-name: "region-va",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-cn-hongkong.aliyuncs.com",
-name: "region-hk",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-ap-southeast-1.aliyuncs.com",
-name: "region-sg",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-us-west-1.aliyuncs.com",
-name: "region-sv",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-ap-northeast-1.aliyuncs.com",
-name: "region-tky",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-eu-central-1.aliyuncs.com",
-name: "region-fra",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-me-east-1.aliyuncs.com",
-name: "region-dubai",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-ap-southeast-3.aliyuncs.com",
-name: "region-jlp",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-ap-southeast-2.aliyuncs.com",
-name: "region-syd",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-},
-{
-endpoint: "https://oss-ap-southeast-5.aliyuncs.com",
-name: "region-yjd",
-link: "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
-}
-]
+ "Status": "OK",
+ "buckets": [
+  {
+   "endpoint": "https://oss-us-east-1.aliyuncs.com",
+   "name": "region-va",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-cn-hongkong.aliyuncs.com",
+   "name": "region-hk",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-ap-southeast-1.aliyuncs.com",
+   "name": "region-sg",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-us-west-1.aliyuncs.com",
+   "name": "region-sv",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-ap-northeast-1.aliyuncs.com",
+   "name": "region-tky",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-eu-central-1.aliyuncs.com",
+   "name": "region-fra",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-me-east-1.aliyuncs.com",
+   "name": "region-dubai",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-ap-southeast-3.aliyuncs.com",
+   "name": "region-jlp",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-ap-southeast-2.aliyuncs.com",
+   "name": "region-syd",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  },
+  {
+   "endpoint": "https://oss-ap-southeast-5.aliyuncs.com",
+   "name": "region-yjd",
+   "link": "https://dldir1.qq.com/qqfile/qq/QQ8.9.4/21603/QQ8.9.4.exe"
+  }
+ ]
 }
